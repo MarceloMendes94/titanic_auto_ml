@@ -1,8 +1,3 @@
-# titanic_auto_ml
-Desenvolvido por:
-[Marcelo Passamai Mendes](https://www.linkedin.com/in/marcelo-mendes/)
-Na Disciplina de Aprendizado de Máquina em 2022
-
 ## Importando bibliotecas
 
 
